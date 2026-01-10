@@ -1,0 +1,2 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Commodity,Risk_CommodityVol,Light Ends Americas,3,2y,,5500000,USD,5500000

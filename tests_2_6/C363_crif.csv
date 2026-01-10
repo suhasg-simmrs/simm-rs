@@ -1,0 +1,2 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Credit,Risk_CreditVol,ISIN:CN0068511222,2,1y,CNY,200000000,USD,200000000

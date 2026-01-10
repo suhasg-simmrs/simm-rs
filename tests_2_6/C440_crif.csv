@@ -1,0 +1,2 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Commodity,Risk_CommodityVol,NA Power ERCOT,8,5y,,7000000,USD,7000000

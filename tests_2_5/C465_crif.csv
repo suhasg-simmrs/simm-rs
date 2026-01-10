@@ -1,0 +1,3 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Commodity,Risk_CommodityVol,Agriculture Index,17,15y,,900000,USD,900000
+Commodity,Risk_CommodityVol,Natural Gas Index,17,20y,,-2000000,USD,-2000000

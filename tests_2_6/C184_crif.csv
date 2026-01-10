@@ -1,0 +1,2 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Equity,Risk_Equity,ISIN:AU000000CTD3,10,,,-500000,USD,-500000

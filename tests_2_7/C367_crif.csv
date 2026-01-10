@@ -1,0 +1,2 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Credit,Risk_CreditVol,ISIN:CA2108230001,Residual,10y,USD,-160000000,USD,-160000000

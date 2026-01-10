@@ -1,0 +1,3 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Credit,Risk_CreditQ,ISIN:CA112585AG91,2,2y,EUR,-180000,USD,-180000
+Credit,Risk_CreditQ,ISIN:CA112585AG91,2,2y,EUR,-180000,USD,-180000

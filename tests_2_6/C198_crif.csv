@@ -1,0 +1,3 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Equity,Risk_Equity,ISIN:UNKNOWN1,Residual,,,500000,USD,500000
+Equity,Risk_Equity,ISIN:UNKNOWN1,Residual,,,500000,USD,500000

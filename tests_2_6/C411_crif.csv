@@ -1,0 +1,2 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Equity,Risk_EquityVol,SPX,11,20y,,-10000000,USD,-10000000

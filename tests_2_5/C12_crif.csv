@@ -1,0 +1,2 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+RatesFX,Risk_IRCurve,AUD,1,6m,Libor3m,3000000,USD,3000000

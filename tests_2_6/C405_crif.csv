@@ -1,0 +1,2 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Equity,Risk_EquityVol,ISIN:AU001159751155,2,1y,,-2000000,USD,-2000000

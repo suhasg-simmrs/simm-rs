@@ -1,0 +1,5 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Credit,Risk_CreditVolNonQ,EU.IG,1,1y,CMBX,80000000,USD,80000000
+Credit,Risk_CreditVolNonQ,EU.IG,1,1y,CMBX,80000000,USD,80000000
+Credit,Risk_CreditVolNonQ,US.IG,1,1y,CMBX,30000000,USD,30000000
+Credit,Risk_CreditVolNonQ,US.IG,1,2y,CMBX,-20000000,USD,-20000000

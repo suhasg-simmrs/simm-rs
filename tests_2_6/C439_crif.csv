@@ -1,0 +1,2 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Commodity,Risk_CommodityVol,NA Natural Gas Gulf Coast,6,3y,,30000000,USD,30000000

@@ -1,0 +1,2 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Credit,Risk_CreditVolNonQ,BR.HY,Residual,1y,CMBX,85000000,USD,85000000

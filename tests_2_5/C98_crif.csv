@@ -1,0 +1,2 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Credit,Risk_CreditQ,ISIN:FR0002226543,12,3y,USD,-100000,USD,-100000

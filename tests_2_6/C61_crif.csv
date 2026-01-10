@@ -1,0 +1,13 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+RatesFX,Risk_IRCurve,JPY,2,2w,Libor1m,-1000000,USD,-1000000
+RatesFX,Risk_IRCurve,JPY,2,1m,Libor1m,-1500000,USD,-1500000
+RatesFX,Risk_IRCurve,JPY,2,3m,Libor3m,1500000,USD,1500000
+RatesFX,Risk_IRCurve,JPY,2,6m,Libor3m,2000000,USD,2000000
+RatesFX,Risk_IRCurve,JPY,2,1y,Libor6m,3000000,USD,3000000
+RatesFX,Risk_IRCurve,JPY,2,2y,Libor6m,4000000,USD,4000000
+RatesFX,Risk_IRCurve,JPY,2,3y,Libor6m,5000000,USD,5000000
+RatesFX,Risk_IRCurve,JPY,2,5y,Libor12m,20000000,USD,20000000
+RatesFX,Risk_IRCurve,JPY,2,10y,Libor12m,30000000,USD,30000000
+RatesFX,Risk_IRCurve,JPY,2,15y,Libor12m,-1000000,USD,-1000000
+RatesFX,Risk_IRCurve,JPY,2,20y,Libor12m,-2000000,USD,-2000000
+RatesFX,Risk_IRCurve,JPY,2,30y,Libor12m,3000000,USD,3000000

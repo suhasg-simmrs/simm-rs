@@ -1,0 +1,7 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Equity,Risk_EquityVol,ISIN:AT000089755122,1,1m,,1200000,USD,1200000
+Equity,Risk_EquityVol,ISIN:CA842256904411,9,5y,,-400000,USD,-400000
+Equity,Risk_EquityVol,ISIN:CA842256904411,9,5y,,-400000,USD,-400000
+Equity,Risk_EquityVol,ISIN:CA842256904411,9,5y,,-400000,USD,-400000
+Equity,Risk_EquityVol,ISIN:CA842256904411,9,5y,,-400000,USD,-400000
+Equity,Risk_EquityVol,ISIN:CA842256904411,9,5y,,-400000,USD,-400000

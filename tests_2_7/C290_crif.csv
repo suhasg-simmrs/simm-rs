@@ -1,0 +1,9 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Commodity,Risk_Commodity,Coal Americas,1,,,150000000,USD,150000000
+Commodity,Risk_Commodity,Crude oil Americas,2,,,1500000000,USD,1500000000
+Commodity,Risk_Commodity,Light Ends Europe,3,,,-360000000,USD,-360000000
+Commodity,Risk_Commodity,Middle Distillates Asia,4,,,-10000000,USD,-10000000
+Commodity,Risk_Commodity,EU Power Germany,9,,,10000000,USD,10000000
+Commodity,Risk_Commodity,Freight Wet,10,,,51000000,USD,51000000
+Commodity,Risk_Commodity,Base Metals Copper,11,,,-300000000,USD,-300000000
+Commodity,Risk_Commodity,Precious Metals Gold,12,,,-800000000,USD,-800000000

@@ -1,0 +1,3 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Equity,Risk_Equity,ISIN:DE000BASF111,7,,,4000000,USD,4000000
+Equity,Risk_Equity,ISIN:DE000A1DAHH0,7,,,-2000000,USD,-2000000

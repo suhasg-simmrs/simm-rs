@@ -1,0 +1,3 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Commodity,Risk_CommodityVol,Crude oil Americas,2,6m,,-32000000,USD,-32000000
+Commodity,Risk_CommodityVol,Crude oil Americas,2,2w,,20000000,USD,20000000

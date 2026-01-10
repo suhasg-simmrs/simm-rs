@@ -1,0 +1,10 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Commodity,Risk_Commodity,Heavy Distillates Americas,5,,,10000000,USD,10000000
+Commodity,Risk_Commodity,NA Natural Gas Gulf Coast,6,,,650000000,USD,650000000
+Commodity,Risk_Commodity,EU Natural Gas Europe,7,,,-10000000,USD,-10000000
+Commodity,Risk_Commodity,NA Power Eastern Interconnect,8,,,-300000000,USD,-300000000
+Commodity,Risk_Commodity,Grains Corn,13,,,20000000,USD,20000000
+Commodity,Risk_Commodity,Softs Cocoa,14,,,10000000,USD,10000000
+Commodity,Risk_Commodity,Livestock Live Cattle,15,,,-10000000,USD,-10000000
+Commodity,Risk_Commodity,Ethanol,16,,,-25000000,USD,-25000000
+Commodity,Risk_Commodity,Agriculture Index,17,,,1300000000,USD,1300000000

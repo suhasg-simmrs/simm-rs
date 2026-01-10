@@ -1,0 +1,10 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Commodity,Risk_Commodity,Coal Americas,1,,,150000000,USD,150000000
+Commodity,Risk_Commodity,Crude oil Americas,2,,,1500000000,USD,1500000000
+Commodity,Risk_Commodity,Light Ends Europe,3,,,-360000000,USD,-360000000
+Commodity,Risk_Commodity,Middle Distillates Asia,4,,,-10000000,USD,-10000000
+Commodity,Risk_Commodity,Grains Corn,13,,,20000000,USD,20000000
+Commodity,Risk_Commodity,Softs Cocoa,14,,,10000000,USD,10000000
+Commodity,Risk_Commodity,Livestock Live Cattle,15,,,-10000000,USD,-10000000
+Commodity,Risk_Commodity,Ethanol,16,,,-25000000,USD,-25000000
+Commodity,Risk_Commodity,Agriculture Index,17,,,1300000000,USD,1300000000

@@ -1,0 +1,3 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+,Param_AddOnFixedAmount,,,,,10000000,USD,10000000
+,Param_AddOnFixedAmount,,,,,20000000,USD,20000000

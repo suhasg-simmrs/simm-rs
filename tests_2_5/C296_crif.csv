@@ -1,0 +1,34 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Commodity,Risk_Commodity,Coal Americas,1,,,150000000,USD,150000000
+Commodity,Risk_Commodity,Coal Europe,1,,,1000000,USD,1000000
+Commodity,Risk_Commodity,Crude oil Americas,2,,,1500000000,USD,1500000000
+Commodity,Risk_Commodity,Crude oil Asia/Middle East,2,,,-1000000,USD,-1000000
+Commodity,Risk_Commodity,Light Ends Europe,3,,,-360000000,USD,-360000000
+Commodity,Risk_Commodity,Light Ends Asia,3,,,1000000,USD,1000000
+Commodity,Risk_Commodity,Middle Distillates Asia,4,,,-10000000,USD,-10000000
+Commodity,Risk_Commodity,Middle Distillates Europe,4,,,-1000000,USD,-1000000
+Commodity,Risk_Commodity,Heavy Distillates Americas,5,,,10000000,USD,10000000
+Commodity,Risk_Commodity,Heavy Distillates Europe,5,,,1000000,USD,1000000
+Commodity,Risk_Commodity,NA Natural Gas Gulf Coast,6,,,650000000,USD,650000000
+Commodity,Risk_Commodity,NA Natural Gas West,6,,,-1000000,USD,-1000000
+Commodity,Risk_Commodity,EU Natural Gas Europe,7,,,-10000000,USD,-10000000
+Commodity,Risk_Commodity,NA Power Eastern Interconnect,8,,,-300000000,USD,-300000000
+Commodity,Risk_Commodity,NA Power ERCOT,8,,,-1000000,USD,-1000000
+Commodity,Risk_Commodity,EU Power Germany,9,,,10000000,USD,10000000
+Commodity,Risk_Commodity,EU Power UK,9,,,1000000,USD,1000000
+Commodity,Risk_Commodity,Freight Wet,10,,,51000000,USD,51000000
+Commodity,Risk_Commodity,Freight Dry,10,,,-1000000,USD,-1000000
+Commodity,Risk_Commodity,Base Metals Copper,11,,,-300000000,USD,-300000000
+Commodity,Risk_Commodity,Base Metals Lead,11,,,1000000,USD,1000000
+Commodity,Risk_Commodity,Precious Metals Gold,12,,,-800000000,USD,-800000000
+Commodity,Risk_Commodity,Precious Metals Silver,12,,,-1000000,USD,-1000000
+Commodity,Risk_Commodity,Grains Corn,13,,,20000000,USD,20000000
+Commodity,Risk_Commodity,Grains Wheat,13,,,1000000,USD,1000000
+Commodity,Risk_Commodity,Softs Cocoa,14,,,10000000,USD,10000000
+Commodity,Risk_Commodity,Softs Cotton,14,,,-1000000,USD,-1000000
+Commodity,Risk_Commodity,Livestock Live Cattle,15,,,-10000000,USD,-10000000
+Commodity,Risk_Commodity,Livestock Lean Hogs,15,,,1000000,USD,1000000
+Commodity,Risk_Commodity,Ethanol,16,,,-25000000,USD,-25000000
+Commodity,Risk_Commodity,Random Length Lumber,16,,,-2000000,USD,-2000000
+Commodity,Risk_Commodity,Agriculture Index,17,,,1300000000,USD,1300000000
+Credit,Risk_Commodity,Natural Gas Index,17,,,2000000,USD,2000000

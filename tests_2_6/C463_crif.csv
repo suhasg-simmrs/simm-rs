@@ -1,0 +1,3 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Commodity,Risk_CommodityVol,Coal Europe,1,2w,,4000000,USD,4000000
+Commodity,Risk_CommodityVol,Coal Americas,1,1m,,3000000,USD,3000000

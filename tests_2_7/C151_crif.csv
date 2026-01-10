@@ -1,0 +1,4 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Credit,Risk_CreditNonQ,ISIN:ES0338093059,2,3y,CMBX,-400000,USD,-400000
+Credit,Risk_CreditNonQ,ISIN:ES0338093059,2,3y,CMBX,-400000,USD,-400000
+Credit,Risk_CreditNonQ,ISIN:CA0359093012,2,1y,CMBX,200000,USD,200000

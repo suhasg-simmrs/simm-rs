@@ -1,0 +1,7 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Equity,Risk_Equity,ISIN:INE044A01036,1,,,6000000,USD,6000000
+Equity,Risk_Equity,ISIN:CNE000000J28,2,,,-2000000,USD,-2000000
+Equity,Risk_Equity,ISIN:RU0009024277,3,,,2000000,USD,2000000
+Equity,Risk_Equity,ISIN:AU000000API4,10,,,600000,USD,600000
+Equity,Risk_Equity,SPX,11,,,1000000000,USD,1000000000
+Equity,Risk_Equity,VIX,12,,,3000000,USD,3000000

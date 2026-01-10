@@ -1,0 +1,2 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Equity,Risk_EquityVol,ISIN:CY180666897555,Residual,30y,,-500000,USD,-500000

@@ -1,0 +1,3 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Credit,Risk_CreditQ,ISIN:CA82028KAP62,3,3y,GBP,180000,USD,180000
+Credit,Risk_CreditQ,ISIN:CA82028KAP62,3,5y,JPY,-100000,USD,-100000

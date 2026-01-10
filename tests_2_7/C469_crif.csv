@@ -1,0 +1,4 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Commodity,Risk_CommodityVol,Coal Americas,1,1m,,3000000,USD,3000000
+Commodity,Risk_CommodityVol,Freight Dry,10,10y,,1000000,USD,1000000
+Commodity,Risk_CommodityVol,Ethanol,16,5y,,600000,USD,600000

@@ -1,0 +1,5 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+RatesFX,Risk_FX,EUR,,,,-5000000000,USD,-5000000000
+RatesFX,Risk_FX,USD,,,,610000000,USD,610000000
+RatesFX,Risk_FX,GBP,,,,910000000,USD,910000000
+RatesFX,Risk_FX,EUR,,,,-900000000,USD,-900000000

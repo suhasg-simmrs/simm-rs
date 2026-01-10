@@ -1,0 +1,3 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Equity,Risk_Equity,ISIN:US1266501006,5,,,10000000,USD,10000000
+Equity,Risk_Equity,ISIN:US28176E1082,5,,,2000000,USD,2000000

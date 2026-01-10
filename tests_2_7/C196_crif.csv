@@ -1,0 +1,3 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Equity,Risk_Equity,ISIN:AU000000API4,10,,,600000,USD,600000
+Equity,Risk_Equity,ISIN:AU000000API4,10,,,600000,USD,600000

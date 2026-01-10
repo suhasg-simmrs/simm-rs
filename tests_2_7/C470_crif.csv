@@ -1,0 +1,19 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+Commodity,Risk_CommodityVol,Coal Europe,1,2w,,4000000,USD,4000000
+Commodity,Risk_CommodityVol,Coal Americas,1,1m,,3000000,USD,3000000
+Commodity,Risk_CommodityVol,Coal Australia,1,3m,,-3000000,USD,-3000000
+Commodity,Risk_CommodityVol,Crude oil Americas,2,6m,,-32000000,USD,-32000000
+Commodity,Risk_CommodityVol,Crude oil Asia/Middle East,2,1y,,-10000000,USD,-10000000
+Commodity,Risk_CommodityVol,Light Ends Americas,3,2y,,5500000,USD,5500000
+Commodity,Risk_CommodityVol,NA Natural Gas Gulf Coast,6,3y,,30000000,USD,30000000
+Commodity,Risk_CommodityVol,NA Power ERCOT,8,5y,,7000000,USD,7000000
+Commodity,Risk_CommodityVol,Freight Dry,10,10y,,1000000,USD,1000000
+Commodity,Risk_CommodityVol,Base Metals Copper,11,6m,,-7000000,USD,-7000000
+Commodity,Risk_CommodityVol,Precious Metals Gold,12,1y,,12000000,USD,12000000
+Commodity,Risk_CommodityVol,Grains Wheat,13,2y,,8000000,USD,8000000
+Commodity,Risk_CommodityVol,Agriculture Index,17,15y,,900000,USD,900000
+Commodity,Risk_CommodityVol,Natural Gas Index,17,20y,,-2000000,USD,-2000000
+Commodity,Risk_CommodityVol,Ethanol,16,5y,,600000,USD,600000
+Commodity,Risk_CommodityVol,Random Length Lumber,16,30y,,-700000,USD,-700000
+Commodity,Risk_CommodityVol,Crude oil Americas,2,2w,,20000000,USD,20000000
+Commodity,Risk_CommodityVol,Coal Australia,1,6m,,3000000,USD,3000000

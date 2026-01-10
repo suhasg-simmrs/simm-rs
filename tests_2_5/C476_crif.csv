@@ -1,0 +1,9 @@
+ProductClass,RiskType,Qualifier,Bucket,Label1,Label2,Amount,AmountCurrency,AmountUSD
+,Param_AddOnNotionalFactor,Product Alpha,,,,12.5,,12.5
+,Param_AddOnNotionalFactor,Product Bravo,,,,25,,25
+,Notional,Product Alpha,,,,80000000,USD,80000000
+,Notional,Product Bravo,,,,60000000,USD,60000000
+,Notional,Product Bravo,,,,100000000,USD,100000000
+,Notional,Product Charlie,,,,40000000,USD,40000000
+,Param_AddOnFixedAmount,,,,,10000000,USD,10000000
+,Param_AddOnFixedAmount,,,,,20000000,USD,20000000

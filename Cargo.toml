@@ -1,0 +1,18 @@
+[package]
+name = "simm-rs"
+version = "0.1.0"
+edition = "2024"
+authors = ["Suhas Ghorpadkar suhasghorp@gmail.com"]
+description = "High-performance Standard Initial Margin Model (SIMM) Calculator"
+license = "MIT"
+readme = "README.md"
+keywords = ["simm", "initial", "margin", "finance"]
+categories = ["finance"]
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+toml = "0.8"
+anyhow = "1.0"
+statrs = "0.17"
+csv = "1.3"
