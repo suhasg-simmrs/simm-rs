@@ -498,8 +498,8 @@ Please make sure to update tests as appropriate and follow the existing code sty
 
 ## References
 
-- **ISDA SIMM Methodology**: [https://www.isda.org/margin-reform/](https://www.isda.org/margin-reform/)
-- **Introduction to SIMM**: [https://benjaminwhiteside.com/2020/03/08/introduction-to-simm/](https://benjaminwhiteside.com/2020/03/08/introduction-to-simm/)
+- **ISDA SIMM Methodology 2.6**: [https://www.isda.org/a/b4ugE/ISDA-SIMM_v2.6_PUBLIC.pdf](https://www.isda.org/margin-reform/)
+- **Understanding ISDA SIMM**: [https://www.linkedin.com/pulse/understanding-isda-simm-standard-initial-margin-model-y2dhe/](https://benjaminwhiteside.com/2020/03/08/introduction-to-simm/)
 - **BCBS-IOSCO Framework**: Basel Committee on Banking Supervision and International Organization of Securities Commissions framework for margin requirements
 - **CRIF Specification**: Common Risk Interchange Format documentation
 
