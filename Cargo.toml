@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 authors = ["Suhas Ghorpadkar suhasghorp@gmail.com"]
 description = "High-performance Standard Initial Margin Model (SIMM) Calculator"
+repository = "https://github.com/suhasg-simmrs/simm-rs"
 license = "MIT"
 readme = "README.md"
 keywords = ["simm", "initial", "margin", "finance"]
