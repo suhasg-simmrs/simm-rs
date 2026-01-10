@@ -466,7 +466,7 @@ All v2.5 tests validate against ISDA reference implementations with rounding tol
 
 **Suhas Ghorpadkar**
 - Email: suhasghorp@gmail.com
-- GitHub: [@suhasghorp](https://github.com/suhasghorp)
+- GitHub: [@suhasg-simmrs](https://github.com/suhasghorp)
 
 ### Acknowledgments
 
