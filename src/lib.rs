@@ -367,11 +367,11 @@ mod tests {
                         match compare_csv_files(&calc_output_path, &expected_output_path) {
                             Ok((matches, differences)) => {
                                 if matches {
-                                    println!("✓ PASS (Benchmark: {})",
+                                    println!("PASS (Benchmark: {})",
                                         summary.get("SIMM Benchmark").unwrap_or(&"-".to_string()));
                                     passed += 1;
                                 } else {
-                                    println!("✗ FAIL");
+                                    println!("FAIL");
                                     for diff in &differences {
                                         println!("  {}", diff);
                                     }
